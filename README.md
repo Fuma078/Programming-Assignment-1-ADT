@@ -20,7 +20,7 @@ also allow user to search the student by First name and show the index where the
 
 ## Installation
 1. Save the source code in a file named `csvSorting.java`.
-2. Prepare a `class_roaster67.csv` file with students data. Make sure that the data follows the correct format (e.g. ID, First Name, Last Name).
+2. Prepare a `class_roaster67.csv` file with students data or any students data. Make sure that the data follows the correct format (e.g. ID, First Name, Last Name).
 3. Compile the Java program:
 ```
 javac csvSorting.java
@@ -122,3 +122,5 @@ Found at index: 21
 6. Custom Data Structure:
 
     - Utilizes a `Data` class to encapsulate student details (`ID`, `firstName`, `lastName`) for better code organization and reusability.
+
+
