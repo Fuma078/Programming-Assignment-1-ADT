@@ -121,6 +121,4 @@ Found at index: 21
    
 6. Custom Data Structure:
 
-Utilizes a `Data` class to encapsulate student details (`ID`, `firstName`, `lastName`) for better code organization and reusability.
-
-
+    - Utilizes a `Data` class to encapsulate student details (`ID`, `firstName`, `lastName`) for better code organization and reusability.
